@@ -6,6 +6,10 @@ An AI-powered assistant that helps users interact with uploaded documents (PDF o
 - Generating logic-based questions and evaluating responses
 
 ---
+## Demo Video
+**LINK:** https://drive.google.com/drive/folders/1fZpTA7A7qEJMQOslmlEXEVpJ7W2QPvV_?usp=drive_link
+
+---
 
 ## 🚀 Features
 
