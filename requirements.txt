@@ -1,0 +1,9 @@
+streamlit
+transformers
+pdfminer.six
+torch
+nltk
+PyMuPDF
+scikit-learn
+numpy
+python-docx

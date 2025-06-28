@@ -1,0 +1,40 @@
+{
+  "include": [
+    "**/*.py"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "env/**"
+  ],
+  "ignore": [],
+  "defineConstant": {},
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "warning",
+  "reportMissingTypeStubs": "none",
+  "reportArgumentType": "none",
+  "reportCallIssue": "none",
+  "reportOptionalSubscript": "none",
+  "reportIndexIssue": "none",
+  "reportOperatorIssue": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportOptionalOperand": "none",
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Darwin",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages"
+      ]
+    }
+  ],
+  "reportUnknownMemberType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownLambdaType": "none",
+  "reportUnknownParameterType": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportAttributeAccessIssue": "none"
+} 
