@@ -58,6 +58,4 @@ streamlit run app.py
 - Automatically generates 3 logic-based/comprehension questions.
 - Submit your answers and receive evaluations with document references.
 
-## Local Deployment
-streamlit run app.py
 
